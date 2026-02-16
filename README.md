@@ -2,7 +2,7 @@
 
 ## About Me
 
-Cloud Engineer and AWS Certified Solutions Architect with 7+ years of experience designing, operating, and scaling production cloud platforms.
+Cloud Engineer and AWS Certified Solutions Architect with 7+ years of experience supporting and operating production cloud platforms, with a strong focus on reliability, automation, and SRE practices.
 
 
 🔭 Currently building cloud-native systems, AI-driven solutions, and modern DevOps/Platform architectures
